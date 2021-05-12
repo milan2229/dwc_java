@@ -1,0 +1,6 @@
+
+public class chapter06 {
+int a = 2,
+
+c = a + 5;
+}
