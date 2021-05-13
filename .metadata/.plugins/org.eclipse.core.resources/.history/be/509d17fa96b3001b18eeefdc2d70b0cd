@@ -1,0 +1,9 @@
+
+public class chapter06 {
+	public static void main(String[] args) {
+		int a = 2;
+		int c;
+		c = a + 5;
+		System.out.println(c);
+	}
+}

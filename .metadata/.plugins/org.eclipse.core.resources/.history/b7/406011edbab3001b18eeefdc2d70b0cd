@@ -1,0 +1,13 @@
+
+public class Chapter07 {
+	public static void main(String[] args) {
+		int val = 8;
+		if (val < 5) {
+			System.out.println("とても近いです");
+		} else if (val < 10 ) {
+			System.out.println("近いです");
+		} else (val < 15 ) {
+			System.out.println("頑張ろう");
+		}
+	}
+}
