@@ -1,0 +1,7 @@
+package classMethod.human;
+
+import Human01;
+
+public class Human02 extends Human01 {
+
+}

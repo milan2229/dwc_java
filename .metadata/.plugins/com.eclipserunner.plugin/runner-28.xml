@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<runner version="1.0.0">
+    <category expanded="true" name="カテゴリーなし">
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter06"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter07"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter071"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter1"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Chapter8"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ClassMethod01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="ClassMethod02"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Dowhile01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Main"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Ready02"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Switch01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="Valiable01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="While01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="if01"/>
+        <launchConfiguration bookmark="false" defaultLaunchMode="run" name="uf02"/>
+    </category>
+</runner>
